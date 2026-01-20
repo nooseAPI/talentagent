@@ -51,3 +51,4 @@ streamlit_app.py   UI
 
 stram UI는 `BACKEND`(Vector Index + LangGraph)와 엑셀 업로드 된 내용으로 다양한 시나리오를 실험할 수 있습니다.
 "" 
+![Talent AX UI](talentAI_UI.png)
