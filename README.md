@@ -1,5 +1,5 @@
 # TALENT
-
+![Talent AX UI](talentAI_UI.png)
 엑셀에 기입된 인사정보를 업로드하여 자체 백엔드처럼 활용해 **엑셀업로드 → LLM 기반 Q&A** 흐름을 실험하는 스터디용 프로젝트입니다
 
 ## 개발 배경  
@@ -51,4 +51,3 @@ streamlit_app.py   UI
 
 stram UI는 `BACKEND`(Vector Index + LangGraph)와 엑셀 업로드 된 내용으로 다양한 시나리오를 실험할 수 있습니다.
 "" 
-![Talent AX UI](talentAI_UI.png)
