@@ -9,9 +9,10 @@
 ## 기술 스택
 - **언어/런타임**: Python 3.11  
 - **데이터 소스**: 엑셀
-- **UI**: LangGraph + Vector  
-- **AI**: Ollama AI(무료)  
-
+-   **UI**     : streamlit(웹앱)  
+-   **AI**     : Ollama AI(무료)  
+-   **그 외**   : vector+LangGraph
+ 
 ## 프로젝트 구조 및 역할
 ```
 vector_store.py    vector Index 생성
