@@ -34,7 +34,7 @@ st.title(project_name)
 # ===============================
 st.markdown(
     """
-이 서비스는 **Talent AX (Talent Analytics & AI Transformation)** 기반으로  
+이 서비스는 **Talent (Talent Analytics & AI Transformation)** 기반으로  
 사내 **인재·역량·채용·성과·학습·커리어** 전 영역을 지원하는 **AI 인재 비서**입니다.
 
 ### 🔹 주요 지원 영역
@@ -50,7 +50,7 @@ st.markdown(
 - "이 직원에게 추천할 다음 커리어 경로는?"
 - "입사 1~2년 차 이탈 위험 신호를 알려줘"
 - "역량 기반 평가 기준을 정리해줘"
-- "사내 데이터로 Talent AX 대시보드 구성안 만들어줘"
+- "사내 데이터로 Talent 대시보드 구성안 만들어줘"
 """
 )
 

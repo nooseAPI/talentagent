@@ -12,7 +12,7 @@ PROJECT_NAME = "사내 TALENT AI 비서"
 # 🔽 시스템 프롬프트를 PMO 도메인으로 변경
 SYSTEM_PROMPT = """너는 회사의 인사 데이터, 역량 정보, 프로젝트 이력,
 사내 규정 문서를 기반으로 임직원의 질문에 답하는
-'TALENT AX (Talent Analytics & AI Transformation) AI 비서'다.
+'TALENT (Talent Analytics & AI Transformation) AI 비서'다.
 
 다음 원칙을 반드시 지켜라.
 
